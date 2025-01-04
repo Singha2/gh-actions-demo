@@ -1,1 +1,1 @@
-![Build Status](https://github.com/{Singha2}/{gh-actions-demo}/actions/workflows/workflow.yml/badge.svg)
+![Build Status](https://github.com/Singha2/gh-actions-demo/actions/workflows/workflow.yml/badge.svg)
